@@ -1,3 +1,3 @@
 # hacking-hw4-webRequest
 
-This Chrome extension will block Facebook and change all images from any url to 'nothing'.
+This Chrome extension will block Facebook and change all images of any url to 'nothing'.
